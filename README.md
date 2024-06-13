@@ -9,6 +9,7 @@
 
 **2. RNN_оригинальность.ipynb** - 1я серия экспериментов, в которой модели регрессии обучаются предсказывать баллы оригинальности;
 
+сохранённые BERT-модели - https://drive.google.com/drive/folders/1xtifs4hq9ulEAhRO0EzcBrDLY5U4hQRa?usp=sharing
 
 **Bert_logits_Guilford.ipynb** - ноутбук, в котором формируются датасеты с добавлением логитов из удачных BERT-моделей;
 
